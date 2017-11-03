@@ -2,8 +2,6 @@
 <!-- Manifest for LineageOS and LineageOS based roms-->
 <manifest>
 
-  <remote  name="GDevGroup" fetch="https://github.com/GDevGroup" />
-
   <!-- Device Trees -->
   <project path="device/samsung/zero-common" name="android_device_samsung_zero-common" revision="cm-14.1" remote="GDevGroup" />
   <project path="device/samsung/zerofltexx" name="android_device_samsung_zerofltexx" revision="cm-14.1" remote="GDevGroup" />

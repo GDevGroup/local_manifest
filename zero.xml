@@ -5,6 +5,7 @@
   <!-- Device Trees -->
   <project path="device/samsung/zero-common" name="android_device_samsung_zero-common" revision="cm-14.1" remote="Giugiu19" />
   <project path="device/samsung/zerofltexx" name="android_device_samsung_zerofltexx" revision="cm-14.1" remote="Giugiu19" />
+  <project path="device/samsung/zeroltexx" name="android_device_samsung_zeroltexx" revision="cm-14.1" remote="Giugiu19" />
   
   <!-- Vendor folder -->
   <project path="vendor/samsung/zero-common" name="android_vendor_samsung_zero-common" revision="cm-14.1" remote="Giugiu19" />

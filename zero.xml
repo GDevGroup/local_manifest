@@ -22,6 +22,6 @@
     
 
   <!-- Etc -->
-  <!--project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" remote="github" /-->
+  <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" remote="github" />
 
 </manifest>

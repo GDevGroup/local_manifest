@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Manifest for LineageOS and LineageOS based roms-->
 <manifest>
-	
+  
   <remote  name="Giugiu19" fetch="https://github.com/Giugiu19" />
+  
+  <!-- RR replacements -->
+  <remove-project name="android_build" remote="rr" />
+  <remove-project name="android_vendor_resurrection" remote="rr" />
+  <project path="build" name="android_build" revision="nougat" remote="Giugiu19" />
+  <project path="vendor/cm" name="android_vendor_resurrection" revision="nougat" remote="Giugiu19" />
 
   <!-- Device Trees -->
   <project path="device/samsung/zero-common" name="android_device_samsung_zero-common" revision="cm-14.1" remote="Giugiu19" />
@@ -25,6 +31,6 @@
 
   <!-- Etc -->
   <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" remote="github" />
-
+  
 </manifest>
 

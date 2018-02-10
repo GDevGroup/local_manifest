@@ -12,7 +12,7 @@
   <project path="vendor/cm" name="android_vendor_resurrection" revision="oreo" remote="Giugiu19" />
 
   <!-- Device Trees -->
-  <project path="device/samsung/zero-common" name="android_device_samsung_zero-common" revision="lin-15.1" remote="OREOOZERO" />
+  <project path="device/samsung/zero-common" name="android_device_samsung_zero-common" revision="lineage-15.1" remote="OREOOZERO" />
   <project path="device/samsung/zerofltexx" name="android_device_samsung_zerofltexx" revision="lin-15.1" remote="OREOOZERO" />
   <project path="device/samsung/zeroltexx" name="android_device_samsung_zeroltexx" revision="lin-15.1" remote="OREOOZERO" />
   

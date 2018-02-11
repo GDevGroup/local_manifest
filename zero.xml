@@ -9,7 +9,7 @@
   <remove-project name="android_build" remote="rr" />
   <remove-project name="android_vendor_resurrection" remote="rr" />
   <project path="build" name="android_build" revision="oreo" remote="Giugiu19" />
-  <project path="vendor/cm" name="android_vendor_resurrection" revision="oreo" remote="Giugiu19" />
+  <project path="vendor/rr" name="android_vendor_resurrection" revision="oreo" remote="Giugiu19" />
 
   <!-- Device Trees -->
   <project path="device/samsung/zero-common" name="android_device_samsung_zero-common" revision="lineage-15.1" remote="OREOOZERO" />

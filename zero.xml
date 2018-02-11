@@ -7,7 +7,7 @@
   
   <!-- RR replacements -->
   <remove-project name="android_build" remote="rr" />
-  <remove-project name="android_vendor_resurrection" remote="rr" />
+  <remove-project name="ResurrectionRemix/android_vendor_resurrection" remote="github" revision="oreo" />
   <project path="build" name="android_build" revision="oreo" remote="Giugiu19" />
   <project path="vendor/rr" name="android_vendor_resurrection" revision="oreo" remote="Giugiu19" />
 

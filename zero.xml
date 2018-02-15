@@ -3,7 +3,7 @@
 <manifest>
   
   <remote  name="Giugiu19" fetch="https://github.com/Giugiu19" />
-  <remote  name="Giugiu19" fetch="https://github.com/OREOOZERO" />
+  <remote  name="OREOOZERO" fetch="https://github.com/OREOOZERO" />
   
   <!-- RR replacements -->
   <remove-project name="android_build" remote="rr" />

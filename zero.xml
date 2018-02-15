@@ -17,7 +17,7 @@
   <project path="device/samsung/zeroltexx" name="android_device_samsung_zeroltexx" revision="lin-15.1" remote="OREOOZERO" />
   
   <!-- Vendor folder -->
-  <project path="vendor/samsung/zero-common" name="android_vendor_samsung_zero-common" revision="lin-15.1" remote="OREOOZERO" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" revision="lineage-15.1" remote="OREOOZERO" />
 
   <!-- Kernel -->
   <project path="kernel/samsung/exynos7420" name="android_kernel_samsung_exynos7420" revision="lin-15.1" remote="OREOOZERO" />

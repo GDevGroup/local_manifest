@@ -24,10 +24,10 @@
 
   <!-- Hardware -->
   <project path="hardware/samsung" name="android_hardware_samsung" revision="lin-15.1" remote="OREOOZERO" />
-  <project path="hardware/samsung_slsi-cm/exynos" name="android_hardware_samsung_slsi-cm_exynos" revision="lineage-15.1" remote="github" />
-  <project path="hardware/samsung_slsi-cm/exynos5" name="android_hardware_samsung_slsi-cm_exynos5" revision="lineage-15.1" remote="github" />
-  <project path="hardware/samsung_slsi-cm/openmax" name="android_hardware_samsung_slsi-cm_openmax" revision="lineage-15.1" remote="github" />
-  <project path="hardware/samsung_slsi-cm/exynos7420" name="android_hardware_samsung_slsi-cm_exynos7420" revision="lineage-15.1" remote="github" />
+  <project path="hardware/samsung_slsi-cm/exynos" name="android_hardware_samsung_slsi-cm_exynos" revision="lineage-15.1" remote="OREOOZERO" />
+  <project path="hardware/samsung_slsi-cm/exynos5" name="android_hardware_samsung_slsi-cm_exynos5" revision="lineage-15.1" remote="OREOOZERO" />
+  <project path="hardware/samsung_slsi-cm/openmax" name="android_hardware_samsung_slsi-cm_openmax" revision="lineage-15.1" remote="OREOOZERO" />
+  <project path="hardware/samsung_slsi-cm/exynos7420" name="android_hardware_samsung_slsi-cm_exynos7420" revision="lineage-15.1" remote="OREOOZERO" />
     
 
   <!-- Etc -->
